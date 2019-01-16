@@ -1,0 +1,10 @@
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\bin\Debug\TestQrCode.exe.config
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\bin\Debug\TestQrCode.exe
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\bin\Debug\TestQrCode.pdb
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\bin\Debug\QRCoder.dll
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\bin\Debug\System.Drawing.Common.dll
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\obj\Debug\TestQrCode.csprojAssemblyReference.cache
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\obj\Debug\TestQrCode.csproj.CoreCompileInputs.cache
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\obj\Debug\TestQrCode.csproj.CopyComplete
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\obj\Debug\TestQrCode.exe
+C:\Users\tkrchnak\source\repos\TestQrCode\TestQrCode\obj\Debug\TestQrCode.pdb
