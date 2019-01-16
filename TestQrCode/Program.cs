@@ -1,6 +1,7 @@
 ﻿using QRCoder;
 using System;
 using System.Collections.Generic;
+using System.Drawing.Imaging;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -35,7 +36,7 @@ namespace TestQrCode
             QRCode qrCode = new QRCode(qrCodeData);
             var qrCodeAsBitmap = qrCode.GetGraphic(20);
 
-            qrCodeAsBitmap.Save("test.bmp");
+            qrCodeAsBitmap.Save("test.jpeg", ImageFormat.Jpeg);
         }
     }
 }
